@@ -105,6 +105,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ChO_Bit_Manipulation", "ChO
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ChO_2_Bitwise_operators", "ChO_2_Bitwise_operators\ChO_2_Bitwise_operators.vcxproj", "{2B2B44FC-8CD9-4FC3-B5D3-792CC5BE389B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ChO_3_Bit_manipulation", "ChO_3_Bit_manipulation\ChO_3_Bit_manipulation.vcxproj", "{8AD2D58B-5695-4987-AAC0-4F2FB2A6CDCE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -465,6 +467,14 @@ Global
 		{2B2B44FC-8CD9-4FC3-B5D3-792CC5BE389B}.Release|x64.Build.0 = Release|x64
 		{2B2B44FC-8CD9-4FC3-B5D3-792CC5BE389B}.Release|x86.ActiveCfg = Release|Win32
 		{2B2B44FC-8CD9-4FC3-B5D3-792CC5BE389B}.Release|x86.Build.0 = Release|Win32
+		{8AD2D58B-5695-4987-AAC0-4F2FB2A6CDCE}.Debug|x64.ActiveCfg = Debug|x64
+		{8AD2D58B-5695-4987-AAC0-4F2FB2A6CDCE}.Debug|x64.Build.0 = Debug|x64
+		{8AD2D58B-5695-4987-AAC0-4F2FB2A6CDCE}.Debug|x86.ActiveCfg = Debug|Win32
+		{8AD2D58B-5695-4987-AAC0-4F2FB2A6CDCE}.Debug|x86.Build.0 = Debug|Win32
+		{8AD2D58B-5695-4987-AAC0-4F2FB2A6CDCE}.Release|x64.ActiveCfg = Release|x64
+		{8AD2D58B-5695-4987-AAC0-4F2FB2A6CDCE}.Release|x64.Build.0 = Release|x64
+		{8AD2D58B-5695-4987-AAC0-4F2FB2A6CDCE}.Release|x86.ActiveCfg = Release|Win32
+		{8AD2D58B-5695-4987-AAC0-4F2FB2A6CDCE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -514,6 +524,7 @@ Global
 		{241861C0-350F-469C-8A55-E63CBFCBDEBC} = {26A570EA-12B6-4ABF-8EA2-4B89A95C546E}
 		{0E4BA5F0-8D9B-4E29-AC18-E3BA0D03CB1D} = {B83E9822-A3A3-48C0-BDD9-12089C671F5E}
 		{2B2B44FC-8CD9-4FC3-B5D3-792CC5BE389B} = {B83E9822-A3A3-48C0-BDD9-12089C671F5E}
+		{8AD2D58B-5695-4987-AAC0-4F2FB2A6CDCE} = {B83E9822-A3A3-48C0-BDD9-12089C671F5E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {85640C5A-686C-43D8-8B81-5180C5989442}
